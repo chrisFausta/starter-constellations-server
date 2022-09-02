@@ -44,7 +44,7 @@
     },
     {
       "id": "ISlkF4G",
-      "name": "Leo",
+      "name": "Leon",
       "meaning": "Lion",
       "starsWithPlanets": 19,
       "quadrant": "NQ2"
@@ -97,6 +97,13 @@
       "meaning": "Sails",
       "starsWithPlanets": 7,
       "quadrant": "SQ2"
+    },
+    {
+      "name": "Leo",
+      "meaning": "Lion",
+      "starsWithPlanets": 19,
+      "quadrant": "NQ2",
+      "id": "gaN1tGZ"
     }
   ]
 }
